@@ -377,6 +377,7 @@ body{
     padding: 20px;
 }
 .ad-1{
+    display: block;
     margin-left: 80px;
 }
 .so-link h4{
